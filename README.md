@@ -1,3 +1,3 @@
 # pythonLearning
 
-Added numpy file
+Added numpy_exercise file
