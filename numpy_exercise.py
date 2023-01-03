@@ -36,8 +36,12 @@ def play_with_numbers():
     # Slicing a matrix
     arr = np.arange(1, 26).reshape(5, 5)
     print(arr[2:,1:])
-
     print(arr[3:,3:])
+
+    # Sum of all values in the matrix
+    print(np.sum(arr))
+
+    #
 
 
 if __name__ == '__main__':
